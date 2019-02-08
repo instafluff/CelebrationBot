@@ -1,0 +1,25 @@
+{
+  "name": "celebrationbot",
+  "version": "1.0.0",
+  "description": "A bot to celebrate birthdays and all the fun things!",
+  "main": "app.js",
+  "dependencies": {
+    "comfy.js": "^1.0.4",
+    "dotenv": "^6.2.0",
+    "node-storage": "0.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/CelebrationBot.git"
+  },
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/CelebrationBot/issues"
+  },
+  "homepage": "https://github.com/instafluff/CelebrationBot#readme"
+}
