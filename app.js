@@ -6,6 +6,7 @@ var Storage = require('node-storage');
 var ComfyJS = require("comfy.js");
 var store = new Storage('celebration.db');
 
+ComfyJS.onChat = () => {};
 ComfyJS.onCommand = ( user, command, message, flags ) => {
   // !bday [month] [day] - saves the user's birthday
   // !bday - prints all the birthdays of the month / week
