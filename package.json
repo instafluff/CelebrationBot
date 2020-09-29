@@ -6,6 +6,7 @@
   "dependencies": {
     "comfy.js": "^1.0.13",
     "dotenv": "^6.2.0",
+    "node-fetch": "^2.6.0",
     "node-storage": "0.0.7"
   },
   "devDependencies": {},
