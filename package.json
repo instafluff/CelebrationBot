@@ -7,7 +7,7 @@
     "comfy.js": "^1.0.13",
     "comfydiscord": "^1.0.7",
     "dotenv": "^6.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-storage": "0.0.7"
   },
   "devDependencies": {},
